@@ -1,4 +1,5 @@
 #!/bin/bash
+# Eu sou Tryber e...
 
 FILE="/home/thiago/teste/teste.sh"
 
