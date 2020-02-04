@@ -1,5 +1,6 @@
 #!/bin/bash
-#2
+#1
+
 
 VAR="Shell Script com varíaveis é demais!"
 
