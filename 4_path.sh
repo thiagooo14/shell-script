@@ -1,5 +1,5 @@
 #!/bin/bash
-# Vou ter muito sucesso na programação!"
+# Vou ter muito sucesso na programação
 
 FILE="/home/thiago/teste/teste.sh"
 
